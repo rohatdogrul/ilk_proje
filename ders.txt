@@ -1,1 +1,2 @@
 Git öğreniyorum
+ Git diff komutunu ogreniyorum ve bu cok havali

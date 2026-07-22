@@ -1,2 +1,3 @@
 Git öğreniyorum
  Git diff komutunu ogreniyorum ve bu cok havali
+ bu satir main branchinden geldi

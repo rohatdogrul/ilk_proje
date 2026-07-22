@@ -1,2 +1,1 @@
-Git öğreniyorum
- Git diff komutunu ogreniyorum ve bu cok havali
+ bu satir conflict-deneme branchinden geldi
